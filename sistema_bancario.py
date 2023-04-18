@@ -1,10 +1,15 @@
-menu = """ 
+menu = """
+#### BANCO FONTES SA  ####
+########## MENU ##########
+
 [1] Depositar
 [2] Sacar
 [3] Extrato
 [s] Sair
 
-=> """
+##########################
+
+Digite a sua opção => """
 
 saldo = 0
 limite = 500
@@ -13,9 +18,6 @@ numero_saques = 0
 LIMITE_SAQUES = 3
 
 while True:
-
-    print("## Banco Fontes SA  ##")
-    print("Informe uma opção: ")
     opcao = input(menu)
 
     if opcao == "1":
