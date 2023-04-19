@@ -6,7 +6,7 @@ O Banco Fontes SA é um programa em Python que simula operações bancárias bá
 
 Este é um projeto simples e útil para quem deseja praticar seus conhecimentos em programação, especialmente em Python. Com ele, é possível aprender conceitos básicos de controle de fluxo, entrada e saída de dados, e manipulação de variáveis, além de se familiarizar com a linguagem de programação em si.
 
-### [Versão 1.0 - 18/04/2023](https://github.com/dev-marciofontes/Projeto-BancoFontes-Python/tree/V1.0)
+### [Versão 1.0 - 18/04/2023](https://github.com/dev-marciofontes/Projeto-BancoFontes-Python/blob/V1.0)
 
 Na versão 1.0, as principais funcionalidades incluem:
 
