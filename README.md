@@ -16,7 +16,7 @@ Na versão 1.0, as principais funcionalidades incluem:
 
 Esta versão é uma aplicação simples e direta, com todas as operações realizadas em um único loop principal.
 
-### [Versão 2.0 - 19/04/2023](https://github.com/dev-marciofontes/Projeto-BancoFontes-Python/blob/V2.0/sistema_bancario.py)
+### [Versão 2.0 - 19/04/2023](https://github.com/dev-marciofontes/Projeto-BancoFontes-Python/blob/V2.0/)
 
 A versão 2.0 inclui várias melhorias e novas funcionalidades em comparação com a versão 1.0:
 
