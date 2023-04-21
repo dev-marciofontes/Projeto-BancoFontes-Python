@@ -29,3 +29,17 @@ A versão 2.0 inclui várias melhorias e novas funcionalidades em comparação c
 
 Com estas melhorias e novas funcionalidades, a versão 2.0 oferece uma experiência de usuário aprimorada e mais realista em comparação com a versão 1.0.
 
+### [Versão 3.0 - 21/04/2023](https://github.com/dev-marciofontes/Projeto-BancoFontes-Python/blob/V3.0/)
+
+A versão 3.0 inclui várias melhorias e foi aplicada a Orientação a Objetos em Python.
+
+A versão orientada a objetos do sistema bancário foi refatorada para utilizar classes e objetos para representar entidades do sistema e organizar melhor o código.
+
+Principais mudanças:
+
+- Criação das classes Cliente, Conta, Transacao, Deposito, Saque e Historico
+- Métodos de instância para realizar operações bancárias, tais como depositar, sacar e exibir extrato
+- Uso de herança para definir tipos específicos de transações (Deposito e Saque)
+- Encapsulamento dos dados e comportamentos relacionados em classes e objetos
+- Refatoração do loop principal para trabalhar com os objetos e métodos das classes criadas
+- A senha foi incorporada à classe Conta e o método sacar foi modificado para solicitar a senha antes de realizar a operação, garantindo maior segurança nas transações.
